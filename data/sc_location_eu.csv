@@ -1,0 +1,54 @@
+location_id,location_description,location_type,city,country,region,region2,latitude,longitude
+supplier_1,Description supplier_1,supplier,Oslo,Norway,Europe,GLOBAL,59.9133301,10.7389701
+supplier_2,Description supplier_2,supplier,Moscow,Russia,Europe,GLOBAL,55.7504461,37.6174943
+supplier_3,Description supplier_3,supplier,Stockholm,Sweden,Europe,EU_S_AMERICA,59.3251172,18.0710935
+supplier_4,Description supplier_4,supplier,Helsinki,Finland,Europe,EU_S_AMERICA,60.1674881,24.9427473
+supplier_5,Description supplier_5,supplier,Vienna,Austria,Europe,EU_S_AMERICA,48.2083537,16.3725042
+supplier_6,Description supplier_6,supplier,Berlin,Germany,Europe,EU_S_AMERICA,52.5170365,13.3888599
+supplier_7,Description supplier_7,supplier,Paris,France,Europe,EU_S_AMERICA,48.8534951,2.3483915
+supplier_17,Description supplier_17,supplier,Madrid,Spain,Europe,EU_S_AMERICA,40.4167047,-3.7035825
+supplier_18,Description supplier_18,supplier,Lisbon,Portugal,Europe,EU_S_AMERICA,38.7077507,-9.1365919
+supplier_20,Description supplier_20,supplier,Rome,Italy,Europe,EU_S_AMERICA,41.8933203,12.4829321
+supplier_21,Description supplier_21,supplier,Athens,Greece,Europe,EU_S_AMERICA,37.9839412,23.7283052
+supplier_22,Description supplier_22,supplier,Warsaw,Poland,Europe,EU_S_AMERICA,52.2319581,21.0067249
+supplier_23,Description supplier_23,supplier,Prague,Czech Republic,Europe,EU_S_AMERICA,50.0874654,14.4212535
+supplier_25,Description supplier_25,supplier,Bratislava,Slovakia,Europe,EU_S_AMERICA,48.1516988,17.1093063
+supplier_26,Description supplier_26,supplier,Budapest,Hungary,Europe,EU_S_AMERICA,47.48138955,19.14609413
+supplier_28,Description supplier_28,supplier,Sofia,Bulgaria,Europe,EU_S_AMERICA,-15.2538402,48.2562163
+supplier_29,Description supplier_29,supplier,Bucharest,Romania,Europe,EU_S_AMERICA,44.4361414,26.1027202
+supplier_37,Description supplier_37,supplier,Belgrade,Serbia,Europe,GLOBAL,44.8178131,20.4568974
+supplier_38,Description supplier_38,supplier,Zagreb,Croatia,Europe,EU_S_AMERICA,45.84264135,15.96223148
+supplier_39,Description supplier_39,supplier,Kiev,Ukraine,Europe,GLOBAL,50.4500336,30.5241361
+supplier_57,Description supplier_57,supplier,Minsk,Belarus,Europe,GLOBAL,53.9024716,27.5618225
+supplier_59,Description supplier_59,supplier,Vilnius,Lithuania,Europe,EU_S_AMERICA,54.6870458,25.2829111
+supplier_60,Description supplier_60,supplier,Riga,Latvia,Europe,EU_S_AMERICA,56.9493977,24.1051846
+supplier_61,Description supplier_61,supplier,Tallinn,Estonia,Europe,EU_S_AMERICA,59.4372155,24.7453688
+supplier_79,Description supplier_79,supplier,Istanbul,Turkey,Asia,ASIA_AEU_S_AMERICAICA,41.0091982,28.9662187
+supplier_80,Description supplier_80,supplier,Reykjavik,Iceland,Europe,GLOBAL,64.145981,-21.9422367
+supplier_81,Description supplier_81,supplier,Zurich,Switzerland,Europe,GLOBAL,47.3744489,8.5410422
+supplier_82,Description supplier_82,supplier,Amsterdam,Netherlands,Europe,EU_S_AMERICA,52.3730796,4.8924534
+supplier_89,Description supplier_89,supplier,Brussels,Belgium,Europe,EU_S_AMERICA,50.8465573,4.351697
+supplier_94,Description supplier_94,supplier,Copenhagen,Denmark,Europe,EU_S_AMERICA,55.6867243,12.5700724
+supplier_95,Description supplier_95,supplier,Dublin,Ireland,Europe,EU_S_AMERICA,53.3498006,-6.2602964
+supplier_100,Description supplier_100,supplier,London,United Kingdom,Europe,GB,51.5073359,-0.12765
+supplier_101,Description supplier_101,supplier,Luxembourg City,Luxembourg,Europe,EU_S_AMERICA,49.6112768,6.129799
+supplier_102,Description supplier_102,supplier,Monaco City,Monaco,Europe,GLOBAL,22.32674245,114.2002204
+supplier_104,Description supplier_104,supplier,Vaduz,Liechtenstein,Europe,GLOBAL,47.1392862,9.5227962
+supplier_105,Description supplier_105,supplier,Andorra la Vella,Andorra,Europe,GLOBAL,42.5069391,1.5212467
+supplier_106,Description supplier_106,supplier,San Marino,San Marino,Europe,GLOBAL,43.9458623,12.458306
+supplier_109,Description supplier_109,supplier,Vatican City,Vatican City,Europe,EU_S_AMERICA,41.903411,12.4528527
+raw_materials_warehouse_1,Description raw_materials_warehouse_1,raw_materials_warehouse,Rotterdam,Netherlands,Europe,EU_S_AMERICA,51.9244424,4.47775
+raw_materials_warehouse_2,Description raw_materials_warehouse_2,raw_materials_warehouse,Hamburg,Germany,Europe,EU_S_AMERICA,53.550341,10.000654
+raw_materials_warehouse_3,Description raw_materials_warehouse_3,raw_materials_warehouse,Barcelona,Spain,Europe,EU_S_AMERICA,41.3828939,2.1774322
+manufacturing_plant_2,Description manufacturing_plant_2,manufacturing_plant,Stuttgart,Germany,Europe,EU_S_AMERICA,48.7784485,9.1800132
+manufacturing_plant_3,Description manufacturing_plant_3,manufacturing_plant,Toulouse,France,Europe,EU_S_AMERICA,43.6044622,1.4442469
+manufacturing_plant_4,Description manufacturing_plant_4,manufacturing_plant,Milan,Italy,Europe,EU_S_AMERICA,45.4641943,9.1896346
+distribution_center_1,Description distribution_center_1,distribution_center,Valencia,Spain,Europe,EU_S_AMERICA,39.4697065,-0.3763353
+distribution_center_2,Description distribution_center_2,distribution_center,Antwerp,Belgium,Europe,EU_S_AMERICA,51.2211097,4.3997081
+distribution_center_3,Description distribution_center_3,distribution_center,Marseille,France,Europe,EU_S_AMERICA,43.2961743,5.3699525
+distribution_center_4,Description distribution_center_4,distribution_center,Gdansk,Poland,Europe,EU_S_AMERICA,54.3706858,18.6129821
+distribution_center_5,Description distribution_center_5,distribution_center,Krakow,Poland,Europe,EU_S_AMERICA,50.0619474,19.9368564
+distribution_center_6,Description distribution_center_6,distribution_center,Ljubljana,Slovenia,Europe,EU_S_AMERICA,46.0500268,14.5069289
+distribution_center_7,Description distribution_center_7,distribution_center,Nicosia,Cyprus,Europe,EU_S_AMERICA,35.1748976,33.3638568
+distribution_center_8,Description distribution_center_8,distribution_center,Tirana,Albania,Europe,GLOBAL,41.3304886,19.82556898
+distribution_center_9,Description distribution_center_9,distribution_center,Chisinau,Moldova,Europe,GLOBAL,47.0245117,28.8322923
